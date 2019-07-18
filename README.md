@@ -1,2 +1,2 @@
-# svg
-Place to store often used svg images
+# Overview
+Nothing to see here but some svg images
